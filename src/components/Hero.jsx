@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import carOff from "../assets/Caroff.png";
-import carOn from "../assets/Caron.png";
+import carOn from "../assets/CarOn.png";
 
 const Hero = ({ scrollToSection }) => {
   const [hovered, setHovered] = useState(false);
@@ -87,3 +87,4 @@ const Hero = ({ scrollToSection }) => {
 };
 
 export default Hero;
+
