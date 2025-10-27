@@ -1,12 +1,65 @@
-# React + Vite
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-ZENIX%20Automotive-blue?style=for-the-badge&logo=springboot" alt="Zenix Automotive Logo">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">🚗 Zenix Automotive – Digital Vehicle Service Platform</h1>
 
-Currently, two official plugins are available:
+<h3 align="center">
+  Bridging trust, transparency, and technology in automotive services.
+</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Overview
+**Zenix Automotive** is a full-stack automotive service platform built with **React.js** and **Spring Boot** that redefines how vehicle maintenance and repair services are delivered across India.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The platform connects **vehicle owners**, **verified mechanics**, and **delivery partners** through a **three-app ecosystem**, ensuring transparency, reliability, and digital convenience.  
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer | Technologies |
+|-------|---------------|
+| **Frontend** | React.js, Tailwind CSS, Axios |
+| **Backend** | Java, Spring Boot, Spring Data JPA, REST APIs |
+| **Database** | PostgreSQL |
+| **Tools** | IntelliJ IDEA, VS Code, Postman, Git & GitHub |
+| **Deployment (Optional)** | Vercel (Frontend), Render/Localhost (Backend) |
+
+---
+
+## 🧠 Core Features
+
+### 🔹 Customer App
+- Book vehicle services instantly via a simple dashboard.  
+- Track service progress and mechanic location in real time.  
+- Transparent pricing — no hidden charges.  
+
+### 🔹 Mechanic / Service Center App
+- Accept and manage repair requests with live updates.  
+- Upload repair details and completion proofs directly.  
+
+### 🔹 Delivery Partner App
+- Deliver spare parts with real-time tracking and optimized routing.  
+
+---
+
+## 🧩 Backend Architecture (Spring Boot)
+📊 Future Enhancements
+
+🔐 Add JWT Authentication and Role-based Access
+
+🧮 Implement real-time analytics dashboard
+
+☁️ Dockerize and deploy microservices on AWS
+
+🤖 Integrate Spring AI for smart maintenance predictions
+
+🧑‍💻 Author
+
+Pavan Solanki
+Full Stack Developer (Java | Spring Boot | React.js | DSA)
+📧 pawansk268@gmail.com
+
